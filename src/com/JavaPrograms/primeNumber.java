@@ -3,7 +3,7 @@ package com.JavaPrograms;
 import java.util.Scanner;
 
 public class primeNumber {
-	public static Boolean isPrime(int a) {
+	public static boolean isPrime(int a) {
 		if (a == 0 || a == 1) {
 			return false;
 		}
