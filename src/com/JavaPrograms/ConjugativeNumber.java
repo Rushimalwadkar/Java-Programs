@@ -10,7 +10,7 @@ public class ConjugativeNumber {
 			temp=a+b;
 			a=b;
 			b=temp;
-			System.out.println(temp+ " ");
+			System.out.print(temp+ " ");
 		}
 	}
 }
